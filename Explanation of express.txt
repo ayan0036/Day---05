@@ -1,0 +1,23 @@
+ Q:What is Express.js? 
+ANS:Express.js is a minimal and flexible web framework built on top of Node.js. It simplifies the process of building web servers and APIs by          
+    providing powerful tools and features with minimal setup. 
+
+
+*Benefits of Express.js: 
+Simplicity: 
+ : It allows developers to create web servers with very little code. 
+
+Powerful Routing: 
+ : Express provides an easy way to handle different URL routes and HTTP methods like GET, POST, etc. 
+
+Middleware Support: 
+ : Middleware functions let you add extra functionality between request and response (e.g., logging, authentication). 
+
+Fast Development: 
+ : It speeds up development with built-in features and tools. 
+
+Large Ecosystem: 
+ :A wide range of third-party libraries and strong community support are available. 
+
+Easy Integration: 
+ :It integrates well with databases (like MongoDB or MySQL) and template engines (like EJS, Pug).
